@@ -12,3 +12,10 @@ git config --global user.email "your_email@example.com"
 git config --list
 
 To clone: git clone https://github.com/Tanima-Sharma/PVProject.git
+
+Common Commands, you can use:
+git status
+git pull
+git add .
+git commit -m "Your Comment"
+git push
